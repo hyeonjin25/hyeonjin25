@@ -1,6 +1,6 @@
 ### wanna Front-end!
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 
 <!--
 **hyeonjin25/hyeonjin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
