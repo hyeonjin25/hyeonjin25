@@ -15,10 +15,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjin25&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/hyeonjin25/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjin25&layout=compact)](https://github.com/hyeonjin25/github-readme-stats)
 
-<h4> :eyeglasses: Problem Solving </h4>
+<h4> :eyeglasses: Problem Solving </h4></div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjso4334)](https://solved.ac/hjso4334)<br/>
   
-</div>
+
 
 <!--
 **hyeonjin25/hyeonjin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
