@@ -1,7 +1,7 @@
 <div align="center">
 <h5> Hi! :grin:</h5>
 <h5> I am very interested in developing the front-end! </h5>
-
+<hr/>
   
 <h4> :computer: STACKS </h4>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>  
