@@ -1,6 +1,6 @@
 <div align="center">
-<h5> Hi! :grin:</h5>
-<h5> I am very interested in developing the front-end! </h5>
+<h4> Hi! :grin:</h4>
+<h4> I am very interested in developing the front-end! </h54>
 <br/>
   
 <h4> :computer: STACKS </h4>
