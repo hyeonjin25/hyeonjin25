@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjin25&layout=compact)](https://github.com/hyeonjin25/github-readme-stats)
 
 <h4> :eyeglasses: Problem Solving </h4>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjso4334)](https://solved.ac/hjso4334)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjso4334)](https://solved.ac/hjso4334)<br/>
   
 </div>
 
