@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 안녕하세요! :grin:
-프론트엔드 개발자를 꿈꾸는 [hyeonjin](https://github.com/hyeonjin25) 입니다. 
+#### 프론트엔드 개발자를 꿈꾸는 [hyeonjin](https://github.com/hyeonjin25) 입니다. 
 
 <br/>
 
@@ -27,7 +27,8 @@
 
 <!-- disable_animations=true& -->
 
-[![Hyeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjin25&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/hyeonjin25/github-readme-stats)
+[
+![Hyeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjin25&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/hyeonjin25/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjin25&layout=compact)](https://github.com/hyeonjin25/github-readme-stats)
 
 
