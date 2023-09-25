@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 안녕하세요! :grin:
-#### 유저 친화적인 프론트엔드 개발자를 꿈꾸는 [hyeonjin](https://github.com/hyeonjin25) 입니다. 
+#### 유저 친화적인 프론트엔드 개발자를 꿈꾸는 [소현진](https://github.com/hyeonjin25) 입니다. 
 
 <br/>
 
