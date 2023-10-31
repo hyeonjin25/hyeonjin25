@@ -1,10 +1,5 @@
 <div align="center">
 
-## 안녕하세요! :grin:
-### 유저 친화적인 프론트엔드 개발자를 꿈꾸는 소현진 입니다. 
-
-<br/>
-
 ### :computer: Tech Stack
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>  
